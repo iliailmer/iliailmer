@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ilia</h1>
 <h3 align="center">A PhD Candidate at the City University of New York</h3>
 
-- 🔭 I’m currently working on parameter identifiability software, such as [here](https://github.com/SciML/StructuralIdentifiability.jl) and [here](https://maple.cloud/app/6509768948056064/Structural+Identifiability+Toolbox)
+- 🔭 I’m currently working on parameter identifiability software, such as [StructuralIdentifiability.jl](https://github.com/SciML/StructuralIdentifiability.jl) and [Structural Identifiability Toolbox](https://maple.cloud/app/6509768948056064/Structural+Identifiability+Toolbox)
 
-- 🌱 I’m currently learning **Julia Language and Rust Language.** Also learning and teaching probability, statistics, and many more. Life is all about learning!
+- 🌱 I’m currently learning **Julia Language and Rust Language.** Also learning and teaching probability, statistics, and more. Life is all about learning!
 
-- 💻 I’m open to collaboration on **machine learning, applied math, data science.**
+- 💻 I’m open to collaboration on **machine learning: NLP, Computer Vision, and applications of Graph Neural Networks.**
 
 - 👨‍💻 All of my projects are available at [this github page](https://github.com/iliailmer).
 
-- 📝 I (non)regularly write articles on [my blog](https://iliailmer.github.io).
+- 📝 I (semi-)regularly write quick articles on [my website](https://iliailmer.github.io).
 
 - 📄 Learn about my experiences from [this resume](https://iliailmer.github.io/files/resume.pdf).
 
