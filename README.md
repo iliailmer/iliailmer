@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilia</h1>
-<h3 align="center">A PhD Candidate at the City University of New York</h3>
+<!-- <h3 align="center">A PhD Candidate  at the City University of New York</h3> -->
 
 <!-- - 🔭 I’m currently working on parameter identifiability software, such as [StructuralIdentifiability.jl](https://github.com/SciML/StructuralIdentifiability.jl) and [Structural Identifiability Toolbox](https://maple.cloud/app/6509768948056064/Structural+Identifiability+Toolbox) -->
 
