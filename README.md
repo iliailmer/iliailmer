@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ilia</h1>
 <h3 align="center">A PhD Candidate at the City University of New York</h3>
 
-- 🔭 I’m currently working on parameter identifiability software, such as [StructuralIdentifiability.jl](https://github.com/SciML/StructuralIdentifiability.jl) and [Structural Identifiability Toolbox](https://maple.cloud/app/6509768948056064/Structural+Identifiability+Toolbox)
+<!-- - 🔭 I’m currently working on parameter identifiability software, such as [StructuralIdentifiability.jl](https://github.com/SciML/StructuralIdentifiability.jl) and [Structural Identifiability Toolbox](https://maple.cloud/app/6509768948056064/Structural+Identifiability+Toolbox) -->
 
-- 🌱 I’m currently learning **Julia Language and Rust Language.** Also learning and teaching probability, statistics, and more. Life is all about learning!
+<!-- - 🌱 I’m currently learning **Julia Language and Rust Language.** Also learning and teaching probability, statistics, and more. Life is all about learning! -->
 
 - 💻 My theoretical and practical interests are in the intersection of **machine learning (NLP, Computer Vision, and applications of Graph Neural Networks)** and **parameter identifiability**.
 
