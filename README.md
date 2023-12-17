@@ -5,7 +5,7 @@
 
 <!-- - 🌱 I’m currently learning **Julia Language and Rust Language.** Also learning and teaching probability, statistics, and more. Life is all about learning! -->
 
-- 💻 My theoretical and practical interests are in the intersection of **machine learning (NLP, Computer Vision, and applications of Graph Neural Networks)** and **parameter identifiability**.
+- 💻 My theoretical and practical interests are in the area of **machine learning (NLP, Computer Vision, and applications of Graph Neural Networks).** <!-- and **parameter identifiability**.-->
 
 - 👨‍💻 All of my projects are available at [this github page](https://github.com/iliailmer).
 
