@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [this github page](https://github.com/iliailmer).
 
-- 📝 I (semi-)regularly write quick articles on [my website](https://iliailmer.github.io).
+- 📝 I (semi-)regularly write quick articles on [my website](https://iliailmer.com).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
