@@ -23,6 +23,7 @@ class Ilia:
         self.focus = ["NLP", "Computer Vision", "Graph Neural Networks"]
         self.currently_learning = ["Rust", "Functional Programming"]
         self.interests = ["Machine Learning", "Deep Learning", "Research"]
+        self.editor = "Neovim"  # btw
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
@@ -34,21 +35,24 @@ me.say_hi()
 ## 💼 What I Do
 
 🔬 **Interests and Focus**
-
 Machine Learning applications across NLP, Computer Vision.
 
-⚡ Low-Level ML
+⚡ **Low-Level ML**
 Implementing ML (and other) algorithms in Rust, C, and C++ for performance and deeper understanding
 
-✍️ **Content Creation**  
+✍️ **Content Creation**
 Semi-regular technical articles on [my website](https://iliailmer.com)
 
-🛠️ **Open Source**  
+🛠️ **Open Source**
 Check out my projects on [GitHub](https://github.com/iliailmer)
 
 ---
 
 ## 🛠️ Tech Stack
+
+### Editor
+
+![Neovim (btw)](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 ### Languages
 
